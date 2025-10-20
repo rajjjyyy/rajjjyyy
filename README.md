@@ -12,7 +12,7 @@ and obsessing over niche subjects.
 
 as for my skillsets and achievements alike, I would like to redirect you to my site:
 
-[sovvvyyysites.me]
+sovvvyyysites.me
 
 thank you and I hope you have a wonderful day <3 
 
