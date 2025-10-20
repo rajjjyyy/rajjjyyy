@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👾 Raj Efpi Tag-at (Sovvvyyy) 👾
 
-<!--
-**rajjjyyy/rajjjyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Image](https://github.com/user-attachments/assets/5d4d05d7-9ff9-4636-824c-665a62c1e229)
 
-Here are some ideas to get you started:
+About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   I am currently a 4th year college Computer Science student, an academic scholar of University of Cebu Lapu-Lapu and Mandaue.
+I have consistently been at the Dean's lister and a high achieving student who contributes to affiliated and non-affiliated student
+and volunteer organization alike. Aside from honing my computer programming skills, I tend to contribute more to society through 
+experiences in mass communications, social networking, and braodcasting alike. I enjoy watching anime, playing games, reading manga, 
+and obsessing over niche subjects.
+
+as for my skillsets and achievements alike, I would like to redirect you to my site:
+
+[sovvvyyysites.me]
+
+thank you and I hope you have a wonderful day <3 
+
+---
